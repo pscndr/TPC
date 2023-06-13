@@ -1,6 +1,5 @@
 # TPC
 Repository teoria ed esercizi Tecnologie per il Cloud
-ver. 1.4
 
 Cari colleghi, in questo documento troverete 10 capitoli che vi guideranno passo passo verso la scoperta del mondo del Cloud Computing.
 
