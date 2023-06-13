@@ -6,12 +6,11 @@ Cari colleghi, in questo documento troverete 10 capitoli che vi guideranno passo
 Questo documento è frutto di una rielaborazione degli appunti di Ivan Sollazzo da parte di Andrea Piscopo e Nicolas Bruno.
 Tutto quello che troverete è frutto di tanto lavoro, fatica e notti insonni, quindi se troverete inesattezze (che sicuramente ci saranno) abbiate rispetto per il lavoro da noi svolto, siamo studenti come voi.
 
-Per visualizzare correttamente gli esercizi bisogna aprire i files con Obsidian e scaricare i seguenti Plug-In:
-obsidian://show-plugin?id=obsidian-admonition
-obsidian://show-plugin?id=code-block-plugin
-obsidian://show-plugin?id=callout-integrator
+Per visualizzare correttamente gli esercizi bisogna aprire i files con Obsidian e scaricare i seguenti Plug-In:  
+Admonition di Jeremy Valentine  
+Code Block di Patrick Lindefors  
+Callout Integrator di Cleoche  
 
-Le fonti dalle quali abbiamo attinto informazioni sono state le seguenti: Professore Pierluigi Gallo, appunti di Ivan Sollazzo, Slide della professoressa Laura Ricci, ChatGPT, slide del professore Idranil Gupta
+Le fonti dalle quali abbiamo attinto informazioni sono state le seguenti: Professore Pierluigi Gallo, appunti di Ivan Sollazzo, Slide della professoressa Laura Ricci, ChatGPT, slide del professore Idranil Gupta  
 
-Disclaimer: alla versione attuale, il documento non è stato visionato o corretto dal
-Professore Pierluigi Gallo
+Disclaimer: alla versione attuale, il documento non è stato visionato o corretto dal Professore Pierluigi Gallo
